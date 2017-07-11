@@ -15,7 +15,7 @@ import re
 import urllib
 import urllib2
 import traceback
-class Base(NZBProvider):
+class binnewz(NZBProvider):
     
     urls = {
         'download': 'http://www.binnews.in/',
